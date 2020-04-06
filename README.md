@@ -10,7 +10,7 @@
 A criação desta aplicação foi feita com uma poderosa stack <i>Node, React e React Native</i>, utilizando única linguagem popular e moderna, o <i>JavaScript</i>.
 <br>
 <br>
-© Rocketseatrocketseat<br>
+© Rocketseat<br>
 <b>Instrutor:</b> Diego Fernandes | CTO <a href="https://rocketseat.com.br/">Rocketseat</a>
 <br>
 <h4 align="center">
